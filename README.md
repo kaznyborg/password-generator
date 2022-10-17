@@ -19,6 +19,6 @@ https://kaznyborg.github.io/password-generator/
 
 The user prompted and then inputs the desired length of the password. It must be within the given range or the app will ask the user to enter a valid length. Then the user is given four options for character type. The user can use any combination as long as at least one chracter type is used. Then a password is created and shown based on the given critera.
 
-![password generator start](/Assets\password generator 1.png)
-![password generator user input](/Assets\password generator 2.png)
-![password generator result](/Assets\password generator 3.png)
+![password generator start](./images/password_generator_1.png)
+![password generator user input](./images/password_generator_2.png)
+![password generator result](./images/password_generator_3.png)
