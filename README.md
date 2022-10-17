@@ -13,7 +13,7 @@ This is a browser run app that generates random passwords. The goal is to use Ja
 
 ## Installation
 
-URL
+https://kaznyborg.github.io/password-generator/
 
 ## Usage
 
